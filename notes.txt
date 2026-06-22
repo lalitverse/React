@@ -1,0 +1,28 @@
+1. destructing of Array, Object, Functional-Parameter.
+2. Scopes
+3. Function = return,  rest-operators, agruments, parameter.
+4. DOM =  is a bridge between HTML and JS. It's a tree like structure - DOM tree + CSSOM tree = Render Tree(Known as DOM Tree).
+layout(reflow) , Paint , 
+
+
+            REACT
+It is a frontend libraary of JS which runs on a SPA(Single Page activation).
+
+                HISTORY of REACT
+Its is made by Facebook  in (2011) and their first name is FASEJS. Jorden Walke made React.
+And in (2013) REACT is official accounced in the world.
+
+
+RealDOm - copy - fax
+2011 - 2013 - React - Open source library
+facbook news feed pages
+instagram 
+2015 is dominated in froentend.
+
+
+
+
+            Working of ReactJS
+RealDOM VS Virtual DOM
+Render Tree  || Light weight copy of your real DOM
+Main visuals(yahi dekhta hai) ||  
