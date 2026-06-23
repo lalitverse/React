@@ -1,0 +1,33 @@
+Updates - befor update <h1>hello</h1>
+        after update <h1>heelo bhai</h1>
+It's a process to updating the real DOM
+tum kuch bhi change karte ho react me usse bolte hai recouncilation. reconuncilation have two parts -
+1. Render phase - comparision between virtual DOM and New Virtual DOM
+diffing algorithim do after comparision and store updation the data
+2. Commit Phase - update the Real DOM 
+
+            Updation in REACTJS
+            RenderPhase
+1. Recouncilation 
+2. Creating New Virtual DOM
+3. Comparisionn b/w OVD vs NVD
+4. Diffing Algorithim 
+5. Changes have been saved
+
+        Commit Phase
+1. Update the RDOM 
+        Paint
+2. Reset in UI
+
+After Real DOM update, Now NVDOM Created 
+
+
+RDOM - VDOM - Fiber Tree
+
+
+JS ka playstore(Package Manager) = NPM (Node pakage Manager)
+
+
+ReactJS ko runtime me chalana padhta hai taki vo update turant kare. that's why we use VITE.
+VITE is a build tool jeske andar bndler hota hai or compilor hota hai. jo ki boiler plate de deta hai react ki.
+
