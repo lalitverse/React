@@ -27,3 +27,13 @@ JSX commponent is function and Function Component
 
 Props matlab properties is a blank object jo ki har funational obejct ke andar aata hai.
 
+
+
+
+Today Class Summery 
+1. JSX 
+2. Components 
+3. Props 
+4. Vit 7 vs Vit 8
+5. Babel and bundler
+6. Rust
