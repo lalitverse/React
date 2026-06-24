@@ -1,0 +1,29 @@
+vite hota hai build tool
+uske andar run hota hai 
+bundlers - rollep / esbuild
+compiler - transpiliors (babel)
+builds - rolldown , vite bundlers
+
+npm run dev jab karte hai jab
+compile karta hai 
+bundle banata hai - exbuild / rollep.
+transpile(babale) banata hai 
+exceute karta hai 
+RDOM ko update karta hai 
+
+
+Babel hota hai compilor of JS
+
+
+
+components matlab functions but inke kuch rules hai 
+Rules of Component -
+1. file ka first letter uppercase hona chaiye.
+2. Function ka bhi first letter bada hona chaiye.
+3. Call elements jese hongey. ex - About ko call </About> karengey taki vo live change ho.
+
+JSX commponent is function and Function Component
+
+
+Props matlab properties is a blank object jo ki har funational obejct ke andar aata hai.
+
