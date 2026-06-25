@@ -1,0 +1,42 @@
+What topics we learn
+- React zero
+- vite
+- create vite@7
+- package.json file
+- node modules
+- packagelock.json
+- npm run dev or npm i 
+npm run dev working - package.json - index.html - sme/main.js - virtual DOM - recellation.
+- JSX(JS inside HTML). 
+- Babel is a  compiler who convert html into js
+- Components - Lego blocks, functional components
+- Props != arguments [ props is a blank object] [props is a property]
+
+
+
+Export Defualt -
+1. kisi bhi naam se import kar satte ho 
+2. Globally import karte hai 
+
+Export - 
+1. pure object me se 1 value export karta hai and uska naam import karte time same hona chaiye 
+
+
+HOOKS - React Hooks 
+
+1. useState - they need 2 value
+ - State = actual value 
+ - SetState = function jo state ko update karta hai. apne parent component ko re-render karta hai 
+
+
+ - setfunction = It will do 2 works - 1. khudki state update karna or 2. parent function component re-render karna 
+
+
+ Hooks can only be call in a functional component.
+
+
+ SetFunction ke kuch rules hote hai 
+ 1. agar Same value hogi to no re-render and no-update.
+
+
+ Batching
